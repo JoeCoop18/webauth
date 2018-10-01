@@ -1,0 +1,22 @@
+body {
+	background-color: #5555ee;
+	font-family: Arial;
+	margin-left: 2em;
+}
+
+h1 {
+	font-family: courier new;
+	text-align: center;
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+p {
+	border: 0.1em solid;
+	background-color: #bbbbbb;
+	padding-left: 0.1em;
+}
+
+li {
+	padding: 0.2em;
+}
